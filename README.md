@@ -1,13 +1,11 @@
-# About
+# ぬるぽ帝国ウェブサイト
 
-[![github-license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nullpo-t/nullpo-t.github.io/blob/master/LICENSE)
+技術(怪)文書を発行する同人サークル**ぬるぽ帝国**のウェブサイト
 
+## Releases
 
-## License
-Copyright (c) 2018 ぬるぽ帝国
-
-We are based on following third-party software.
-
-Name      |License
-----------|----------
-Coming Soon	- Start Bootstrap | MIT License
+- Version 1: ホームページ
+    - 1.0: [VuePress](https://vuepress.vuejs.org/)で作成 (18.06)
+- Version 0: Coming Soonページ
+    - 0.2: 公開予定日を延期 (18.04)
+    - 0.1: [テンプレート](https://startbootstrap.com/template-overviews/coming-soon/)から作成 (18.02)
