@@ -1,0 +1,23 @@
+{
+  "name": "nullpo-t",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "vp-dev": "vuepress dev src/top",
+    "vp-build": "vuepress build src/top"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullpo-t/nullpo-t.github.io.git"
+  },
+  "author": "nullpo-t",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/nullpo-t/nullpo-t.github.io/issues"
+  },
+  "homepage": "https://nullpo-t.github.io",
+  "dependencies": {
+    "vuepress": "^0.10.0"
+  }
+}
