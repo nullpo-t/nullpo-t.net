@@ -14,7 +14,7 @@ actionLink: /about/
 
 `貴サークル「ぬるぽ帝国」は、コミックマーケット94で「金曜日西地区 "め "　01a」に配置されました！`
 
-頒布物情報は適宜ここと[Webカタログ]((https://webcatalog.circle.ms/Circle/Map/13916745/1))に書きます！
+頒布物情報は適宜ここと[Webカタログ](https://webcatalog.circle.ms/Circle/13916745)に書きます！
 
 進捗ゲージ　██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
