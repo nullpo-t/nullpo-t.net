@@ -1,0 +1,16 @@
+# Set your GitHub personal access token as `GH_TOKEN` in Travis CI repository settings.
+# Set your Google Analytics Tracking ID as `GA_TAG` in Travis CI repository settings.
+
+language: node_js
+node_js:
+  - "8"
+branches:
+  only: master
+before_script:
+  - npm install
+script:
+  - bash ./build.sh
+  - bash ./deploy.sh
+cache:
+  directories:
+    - node_modules
