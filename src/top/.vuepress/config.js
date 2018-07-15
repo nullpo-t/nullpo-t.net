@@ -9,7 +9,7 @@ module.exports = {
         { text: '全般', link: '/about/' },
         { text: '議会名簿', link: '/members/' },
         { text: '活動記録', link: '/activities/' },
-        { text: '📝', link: 'https://github.com/nullpo-t/nullpo-t.github.io' },
+        { text: '📝', link: 'https://github.com/nullpo-t/nullpo-t-website' },
       ]
     },
   }
