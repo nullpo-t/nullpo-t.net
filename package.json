@@ -1,6 +1,6 @@
 {
   "name": "nullpo-t",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "website",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nullpo-t/nullpo-t.github.io.git"
+    "url": "git+https://github.com/nullpo-t/nullpo-t-website.git"
   },
   "author": "nullpo-t",
   "license": "",
   "bugs": {
-    "url": "https://github.com/nullpo-t/nullpo-t.github.io/issues"
+    "url": "https://github.com/nullpo-t/nullpo-t-website/issues"
   },
   "homepage": "https://nullpo-t.github.io",
   "dependencies": {
