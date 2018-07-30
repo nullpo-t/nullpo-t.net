@@ -13,35 +13,26 @@ actionLink: /about/
 
 ## 2018.06.08 C94参加します！
 
-Last updated on: 2018.7.24
+Last updated on: 2018.07.30
 
 `貴サークル「ぬるぽ帝国」は、コミックマーケット94で「金曜日西地区 "め "　01a」に配置されました！`
 [Webカタログ](https://webcatalog.circle.ms/Circle/13916745)
 
-進捗ゲージ　██████████████████▒▒▒▒▒▒▒ 
-
-### 1. __はたらくSEさん Vol.1__
-
-メンバーの趣味を詰め込んだ薄い本です！
-
-- 頒布価格 500円（本＋PDF版）
-- B5/34ページ
-    1. waifu2xで動画アップコンバート
-    1. SD-WAN入門
-    1. ハードウェアにおける丸め処理
+無事入稿しました。当日会場にてお待ちしています！
 
 <center>
-<img src="./hse1-cover.png" alt="book-cover" width="400px" border=1 />
-<img src="./hse1-index.png" alt="book-index" width="400px" border=1 />
+<img src="./c94-oshinagaki.png" alt="c94-oshinagaki" width="500px" />
 </center>
 
-### 2. CPUキーホルダー
+### 頒布物情報
 
-いつでもどこでもCPUをモフモフしたい貴方に！
-
-- 頒布価格 500円
-
-<center><img src="./cpu-kc.jpg" alt="cpu-keychain" width="400px"/></center>
+1. はたらくSEさん Vol.1
+    - 新刊/B5/本文34P
+    - 紙の本 + PDF + おまけ（間に合えば...）
+    - 500円
+2. CPUストラップ
+    - Core2Duo
+    - 500円
 
 <br><br>
 ##### [過去ログ](/archives/)
