@@ -7,6 +7,7 @@ module.exports = {
     themeConfig: {
       nav: [
         { text: '全般', link: '/about/' },
+        { text: '刊行物', link: '/publications/' },
         { text: '議会名簿', link: '/members/' },
         { text: '活動記録', link: '/activities/' },
         { text: '📝', link: 'https://github.com/nullpo-t/nullpo-t-website' },
