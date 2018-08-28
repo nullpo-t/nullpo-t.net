@@ -1,6 +1,6 @@
 {
   "name": "nullpo-t",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "website",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://nullpo-t.github.io",
   "dependencies": {
-    "vuepress": "^0.14.1"
+    "vuepress": "^0.14.2"
   }
 }
