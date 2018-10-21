@@ -10,7 +10,7 @@ module.exports = {
         { text: '刊行物', link: '/publications/' },
         { text: '議会名簿', link: '/members/' },
         { text: '活動記録', link: '/activities/' },
-        { text: '📝', link: 'https://github.com/nullpo-t/nullpo-t-website' },
+        { text: '📝', link: 'https://github.com/nullpo-t/nullpo-t.net' },
       ]
     },
   }

@@ -10,10 +10,12 @@ description: Publications
 
 紙の本を持っている人には無償で電子版を配るべきだと思います。
 
-[ダウンロードリンク](http://dl.club.ebiiim.com)
+[ダウンロードリンク](http://dl.nullpo-t.net)
 
 ::: tip サーバが落ちていたら
-お手数ですが`nullpo@ebiiim.com`か`@ebiiiiim`まで連絡してください。
+お手数ですが、
+[mail@nullpo-t.net](mailto:mail@nullpo-t.net) or [@ebiiiiim](https://twitter.com/ebiiiiim)
+までお知らせください。
 ダウンロードキーを忘れた場合などもどうぞ。
 :::
 
