@@ -9,7 +9,7 @@ description: Activities
 ## 2018.08.10 C94
 記念すべき初イベント参加！  
 [頒布物情報](/archives/#_2018-06-08-c94参加します！)  
-[代表のブログ](https://blog.ebiiim.com/diary/2191/)
+[レポート（？）](https://blog.ebiiim.com/diary/2191/)
 
 ## 2018.02.08 建国
 
