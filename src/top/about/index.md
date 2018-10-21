@@ -10,4 +10,4 @@ description: About us
 - [刊行物](/publications/)
 - [メンバー紹介](/members/)
 - [活動記録](/activities/)
-- 連絡先: [nullpo@ebiiim.com](mailto:nullpo@ebiiim.com)
+- 連絡先: [mail@nullpo-t.net](mailto:mail@nullpo-t.net)
