@@ -10,13 +10,14 @@ description: Publications
 
 紙の本を持っている人には電子版を配るべきだと思います。
 
-[ダウンロードリンク](http://dl.nullpo-t.net)
+[ぬるぽ書庫（ダウンロードページ）](http://dl.nullpo-t.net)
 
-::: tip サーバが落ちていたら
+![status](https://img.shields.io/website-up-down-green-red/http/dl.nullpo-t.net.svg?label=status)
+
+::: tip ダウンロードキーがわからない場合
 お手数ですが、
-[mail@nullpo-t.net](mailto:mail@nullpo-t.net) or [@ebiiiiim](https://twitter.com/ebiiiiim)
-までお知らせください。
-ダウンロードキーを忘れた場合などもどうぞ。
+[mail@nullpo-t.net](mailto:mail@nullpo-t.net)
+までご連絡ください。
 :::
 
 ## はたらくSEさん Vol.1
