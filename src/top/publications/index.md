@@ -10,9 +10,9 @@ description: Publications
 
 紙の本を持っている人には電子版を配るべきだと思います。
 
-[ぬるぽ書庫（ダウンロードページ）](http://dl.nullpo-t.net)
+![status](https://img.shields.io/uptimerobot/status/m781260901-b23226ac554d7ae519fd90c9.svg)
 
-![status](https://img.shields.io/website-up-down-green-red/http/dl.nullpo-t.net.svg?label=status)
+[**ダウンロードページ**](http://dl.nullpo-t.net)
 
 ::: tip ダウンロードキーがわからない場合
 お手数ですが、
@@ -38,6 +38,8 @@ description: Publications
 
 ### 正誤表
 
-| 位置                      | 誤                      | 正                     |
-| ------------------------- | ----------------------- | ---------------------- |
-| 第1刷 p.5 コマンドの2行目 | `--crf 22 ./output.mp4` | `-crf 22 ./output.mp4` |
+| 位置                     | 誤                      | 正                     |
+| ------------------------ | ----------------------- | ---------------------- |
+| 第1刷 p.1 下から2行目    | （嫁を）を              | （嫁）を               |
+| 第1刷 p.4 下から1行目    | より大容量なります。    | より大容量になります。 |
+| 第1刷 p.5 コマンド 2行目 | `--crf 22 ./output.mp4` | `-crf 22 ./output.mp4` |
