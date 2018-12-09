@@ -13,7 +13,7 @@ actionLink: /about/
 
 ## 2018.11.03 C95参加します！
 
-Last updated on: 2018.11.24
+Last updated on: 2018.12.09
 
 `◎あなたのサークル「ぬるぽ帝国」は、日曜日　東地区“ト”ブロック－54b に配置されました。`
 [Webカタログ](https://webcatalog.circle.ms/Circle/14210340)
@@ -21,10 +21,10 @@ Last updated on: 2018.11.24
 ### 頒布物情報
 
 1. はたらくSEさん Vol.2
-    - 新刊/B5/本文🤔P
-    - イコライザ on Raspberry Pi／OpenCVでアニメ顔認識／VGA信号
+    - 新刊/B5/本文44P
+    - イコライザ on Raspberry Pi／OpenCVでアニメ顔分類／ディスプレイの制御と走査方式
 2. [はたらくSEさん Vol.1](/publications/#%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8Fse%E3%81%95%E3%82%93-vol-1)
-    - まさかの第2刷
+    - C94既刊/B5/本文34P
     - waifu2xで動画超解像／SD-WAN入門／ハードウェア丸め処理
 3. キーホルダー
     - 本物のCPU or メモリを使っています！
