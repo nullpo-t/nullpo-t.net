@@ -11,6 +11,7 @@ module.exports = {
         { text: '議会名簿', link: '/members/' },
         { text: '活動記録', link: '/activities/' },
         { text: '📝', link: 'https://github.com/nullpo-t/nullpo-t.net' },
-      ]
+      ],
+      lastUpdated: 'Last Updated', // string | boolean
     },
   }
