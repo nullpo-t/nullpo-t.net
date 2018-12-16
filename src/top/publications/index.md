@@ -6,23 +6,21 @@ description: Publications
 
 # 刊行物
 
-## PDF版ダウンロード
+## PDF版
 
 紙の本にダウンロードキーが付いています。  
-👉[**ダウンロードページ**](http://dl.nullpo-t.net)
+👉[**ぬるぽ書庫**](http://dl.nullpo-t.net)
 からフルカラーの最新版をダウンロードできます。
 
 ![status](https://img.shields.io/uptimerobot/status/m781260901-b23226ac554d7ae519fd90c9.svg)
 
-::: tip ダウンロードキーがわからない場合
-お手数ですが、
-[mail@nullpo-t.net](mailto:mail@nullpo-t.net)
-までご連絡ください。
-:::
+ダウンロードキーがわからない場合は、お手数ですが[mail@nullpo-t.net](mailto:mail@nullpo-t.net)までご連絡ください。
 
 ## はたらくSEさん Vol.2
 
 同人誌2冊目、プログラムを書きます。C95発行/B5/本文40ページ
+
+<center><img src="./hse2-img-min.png" alt="hse2_cover" width="250px"/></center>
 
 #### 目次
 
@@ -32,15 +30,17 @@ description: Publications
 - 編集後記
 - 著者紹介
 
+<!--
 #### 正誤表
 
 👉 初版第1刷
+-->
 
 ## はたらくSEさん Vol.1
 
 同人誌1冊目、メンバーの趣味を詰め込みました。C94発行/B5/本文34ページ
 
-<center><img src="../hse1-cover.png" alt="hse1_cover" width="250px"/></center>
+<center><img src="./hse1-img-min.png" alt="hse1_cover" width="250px"/></center>
 
 #### 目次
 
@@ -52,7 +52,9 @@ description: Publications
 
 #### 正誤表
 
+<!--
 👉 初版第2刷
+-->
 
 <!--
 | 位置 | 誤 | 正 | 説明 |
