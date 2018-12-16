@@ -6,13 +6,13 @@ description: Publications
 
 # 刊行物
 
-## PDF版について
+## PDF版ダウンロード
 
-紙の本を持っている人には電子版を配るべきだと思います。
+紙の本にダウンロードキーが付いています。  
+👉[**ダウンロードページ**](http://dl.nullpo-t.net)
+からフルカラーの最新版をダウンロードできます。
 
 ![status](https://img.shields.io/uptimerobot/status/m781260901-b23226ac554d7ae519fd90c9.svg)
-
-[**ダウンロードページ**](http://dl.nullpo-t.net)
 
 ::: tip ダウンロードキーがわからない場合
 お手数ですが、
@@ -21,9 +21,10 @@ description: Publications
 :::
 
 ## はたらくSEさん Vol.2
-同人誌2冊目、プログラミングします。C95発行/B5/本文40ページ
 
-### 目次
+同人誌2冊目、プログラムを書きます。C95発行/B5/本文40ページ
+
+#### 目次
 
 - 第１章　Raspberry Piで作る音響補正用イコライザ
 - 第２章　OpenCVを用いたアニメ顔の分類
@@ -31,17 +32,17 @@ description: Publications
 - 編集後記
 - 著者紹介
 
-### 正誤表
-クリックで展開します。
+#### 正誤表
 
 👉 初版第1刷
 
 ## はたらくSEさん Vol.1
+
 同人誌1冊目、メンバーの趣味を詰め込みました。C94発行/B5/本文34ページ
 
 <center><img src="../hse1-cover.png" alt="hse1_cover" width="250px"/></center>
 
-### 目次
+#### 目次
 
 - 第１章　動画を超高画質で観たい!!!
 - 第２章　次世代WAN入門
@@ -49,9 +50,7 @@ description: Publications
 - あとがき
 - 著者紹介
 
-### 正誤表
-
-クリックで展開します。
+#### 正誤表
 
 👉 初版第2刷
 
