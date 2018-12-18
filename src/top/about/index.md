@@ -5,7 +5,7 @@ description: About us
 ---
 
 # ぬるぽ帝国
-怪文書を発行する同人サークルです。
+技術系の怪文書を発行する同人サークルです。
 
 - [刊行物](/publications/)
 - [メンバー紹介](/members/)
