@@ -30,10 +30,15 @@ description: Publications
 - 編集後記
 - 著者紹介
 
-<!--
+
 #### 正誤表
 
-👉 初版第1刷
+👉 初版
+
+<!--
+| 位置 | 誤 | 正 | 説明 |
+| --- | --- | --- | --- |
+| | | | |
 -->
 
 ## はたらくSEさん Vol.1
@@ -52,9 +57,9 @@ description: Publications
 
 #### 正誤表
 
-<!--
-👉 初版第2刷
--->
+初版第2刷は諸事情により実質改訂版です😇
+
+👉 初版（第2刷）
 
 <!--
 | 位置 | 誤 | 正 | 説明 |
@@ -72,8 +77,9 @@ description: Publications
 | p.23 4行目 | 以下の章 | 次の節 | 誤植 |
 | 裏表紙 バーコード2行目 | 1923055005006 | 2923055005005 | 誤植 |
 -->
+
 <div onclick="obj=document.getElementById('hse1-1_1-eratta').style; obj.display=(obj.display=='none')?'block':'none';">
-<a style="cursor:pointer;">👉 初版第1刷</a>
+<a style="cursor:pointer;">👉 初版（第1刷）</a>
 </div>
 <div id="hse1-1_1-eratta" style="display:none;clear:both;">
 <table>
