@@ -18,9 +18,14 @@ description: Publications
 
 ## はたらくSEさん Vol.2
 
-同人誌2冊目、プログラムを書きます。C95発行/B5/本文40ページ
+同人誌2冊目、プログラムを書きます。
 
 <center><img src="./hse2-img-min.png" alt="hse2_cover" width="250px"/></center>
+
+- C95発行
+- B5サイズ・40ページ
+- 著者: えびーむ・ウミネコ・トキノ
+- [ISDN278-4-501907-02-7](https://isdn.jp/2784501907027)
 
 #### 目次
 
@@ -29,7 +34,6 @@ description: Publications
 - 第３章　ディスプレイの制御信号と走査方式
 - 編集後記
 - 著者紹介
-
 
 #### 正誤表
 
@@ -43,9 +47,14 @@ description: Publications
 
 ## はたらくSEさん Vol.1
 
-同人誌1冊目、メンバーの趣味を詰め込みました。C94発行/B5/本文34ページ
+同人誌1冊目、メンバーの趣味を詰め込みました。
 
 <center><img src="./hse1-img-min.png" alt="hse1_cover" width="250px"/></center>
+
+- C94発行
+- B5サイズ・34ページ
+- 著者: えびーむ・トキノ
+- [ISDN278-4-501907-01-0](https://isdn.jp/2784501907010)
 
 #### 目次
 
