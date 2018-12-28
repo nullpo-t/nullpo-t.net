@@ -25,10 +25,11 @@ description: Members
 -->
 - Twitter: [@tokino4862](https://twitter.com/tokino4862)
 
+<!--
 ## ウミネコ
 
 <img src="./icon_umineko.png" alt="icon_umineko" width="200px"/>
-
+-->
 <!--
 - 活動中: 2018.08.15 −
 -->
