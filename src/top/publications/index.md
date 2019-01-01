@@ -37,13 +37,41 @@ description: Publications
 
 #### 正誤表
 
-👉 初版
+　<!-- ←見た目を調整するための全角スペース-->
 
 <!--
 | 位置 | 誤 | 正 | 説明 |
 | --- | --- | --- | --- |
-| | | | |
+| p.18 注釈*22 | https://www.ludd.ltu.se/ torger/brutefir.html | https://www.ludd.ltu.se/~torger/brutefir.html | 誤植 |
+| p.27 箇条書き2行目 | ・どのカテゴリにも属しな　　　顔画像（分類対象でないキャラ） | ・どのカテゴリにも属しない顔画像（分類対象でないキャラ） | 誤植 |
 -->
+
+<div onclick="obj=document.getElementById('hse2-1_1-eratta').style; obj.display=(obj.display=='none')?'block':'none';">
+<a style="cursor:pointer;">👉 初版</a>
+</div>
+<div id="hse2-1_1-eratta" style="display:none;clear:both;">
+<table>
+  <tr>
+    <th>位置</th>
+    <th>誤</th>
+    <th>正</th>
+    <th>説明</th>
+  </tr>
+  <tr>
+    <td>p.18 注釈*22</td>
+    <td>https://www.ludd.ltu.se/ torger/brutefir.html</td>
+    <td>https://www.ludd.ltu.se/~torger/brutefir.html</td>
+    <td>誤植</td>
+  </tr>
+  <tr>
+    <td>p.27 箇条書き2行目</td>
+    <td>・どのカテゴリにも属しな　　　顔画像（分類対象でないキャラ）</td>
+    <td>・どのカテゴリにも属しない顔画像（分類対象でないキャラ）</td>
+    <td>誤植</td>
+  </tr>
+</table>
+</div>
+
 
 ## はたらくSEさん Vol.1
 
