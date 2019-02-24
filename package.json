@@ -1,6 +1,6 @@
 {
   "name": "nullpo-t",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "website",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/nullpo-t/nullpo-t.net.git"
   },
   "author": "nullpo-t",
-  "license": "",
+  "license": "CC-BY-4.0",
   "bugs": {
     "url": "https://github.com/nullpo-t/nullpo-t.net/issues"
   },
@@ -20,6 +20,6 @@
   "dependencies": {
     "npm-check-updates": "^2.15.0",
     "vue-script2": "^2.0.3",
-    "vuepress": "^0.14.8"
+    "vuepress": "^0.14.9"
   }
 }
