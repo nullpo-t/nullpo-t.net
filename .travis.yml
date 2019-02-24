@@ -7,10 +7,10 @@ node_js:
 branches:
   only: master
 before_script:
-  - npm install
+  - npm ci
 script:
-  - bash ./build.sh
-  - bash ./deploy.sh
+  - ./build.sh
+  - ./deploy.sh
 cache:
   directories:
     - node_modules
