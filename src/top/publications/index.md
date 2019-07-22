@@ -108,8 +108,6 @@ description: Publications
 | p.17 注釈*16 | 出典: Viptela - Cisco | 出典: Viptelaのアーキテクチャ - Cisco | 誤植 |
 | p.17 注釈*17 | e.g. vEdgeが1台増えると | vEdgeが1台増えると | 誤植 |
 | p.20 小々節名 | SIer | システムインテグレータ（SIer）| 補足 |
-| p.20 SIer 1行目 | 売り上げはほとんどが設置作業などの労働集約型業務と監視運用業務から成り | WANビジネスは、現地作業や監視運用などの労働集約型業務が売り上げの多くを占め | 補足 |
-| p.21 注釈*1 | Field Programmable Gate Array: 論理回路の書き換えが可能なIC（ぼくのかんがえたさいきょうのCPUも作れるぞ！） | Field Programmable Gate Array: 論理回路を書き換えられるプログラマブルな集積回路（「ぼくのかんがえたさいきょうのCPU」も作れるぞ！） | 補足 |
 | p.22 3行目 | 演算可能な高速回路 | 演算できる高速な回路 | 補足 |
 | p.23 4行目 | 以下の章 | 次の節 | 誤植 |
 | 裏表紙 バーコード2行目 | 1923055005006 | 2923055005005 | 誤植 |
@@ -166,18 +164,6 @@ description: Publications
     <td>p.20 小々節名</td>
     <td>SIer</td>
     <td>システムインテグレータ（SIer）</td>
-    <td>補足</td>
-  </tr>
-  <tr>
-    <td>p.20 SIer 1行目</td>
-    <td>売り上げはほとんどが設置作業などの労働集約型業務と監視運用業務から成り</td>
-    <td>WANビジネスは、現地作業や監視運用などの労働集約型業務が売り上げの多くを占め</td>
-    <td>補足</td>
-  </tr>
-  <tr>
-    <td>p.21 注釈*1</td>
-    <td>Field Programmable Gate Array: 論理回路の書き換えが可能なIC（ぼくのかんがえたさいきょうのCPUも作れるぞ！）</td>
-    <td>Field Programmable Gate Array: 論理回路を書き換えられるプログラマブルな集積回路（「ぼくのかんがえたさいきょうのCPU」も作れるぞ！）</td>
     <td>補足</td>
   </tr>
   <tr>
