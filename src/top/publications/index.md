@@ -16,9 +16,27 @@ description: Publications
 
 ダウンロードキーがわからない場合は、お手数ですが[mail@nullpo-t.net](mailto:mail@nullpo-t.net)までご連絡ください。
 
+
+## 詳解 HTTP/3
+
+HTTP3 explainedの日本語版です。
+
+<center><img src="./h3-preface-min.png" alt="h3_index" width="500px"/></center>
+
+- C96発行
+- B5サイズ・36ページ
+- [ISDN278-4-501907-03-4](https://isdn.jp/2784501907034)
+- 原著のライセンスに基づく表示 [☆](https://github.com/nullpo-t/h3diff)
+
+#### 正誤表
+
+　<!-- ←見た目を調整するための全角スペース-->
+
+👉 初版
+
 ## はたらくSEさん Vol.2
 
-同人誌2冊目、プログラムを書きます。
+メンバーの趣味を詰め込んだ本です！少しプログラミングします！
 
 <center><img src="./hse2-img-min.png" alt="hse2_cover" width="250px"/></center>
 
@@ -75,7 +93,7 @@ description: Publications
 
 ## はたらくSEさん Vol.1
 
-同人誌1冊目、メンバーの趣味を詰め込みました。
+メンバーの趣味を詰め込んだ本です！
 
 <center><img src="./hse1-img-min.png" alt="hse1_cover" width="250px"/></center>
 
