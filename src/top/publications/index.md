@@ -6,7 +6,7 @@ description: Publications
 
 # 刊行物
 
-## PDF版
+## PDF版について
 
 紙の本にダウンロードキーが付いています。  
 👉[**ぬるぽ書庫**](http://dl.nullpo-t.net)
@@ -16,12 +16,37 @@ description: Publications
 
 ダウンロードキーがわからない場合は、お手数ですが[mail@nullpo-t.net](mailto:mail@nullpo-t.net)までご連絡ください。
 
+## はたらくSEさん Vol.3
+
+今回はGoでなんかやってます！
+
+<center><img src="./hse3-img-min.jpg" alt="hse3_cover" width="250px"/></center>
+
+- C97発行
+- B5サイズ・38ページ
+- 著者: えびーむ
+- [ISDN278-4-501907-04-1](https://isdn.jp/2784501907041)
+
+#### 目次
+
+- 第１章　Goによるパケット解析
+- 第２章　GoでBluetooth Low Energyを扱う
+- 出張編　はたらくSEさん＠インド
+- 編集後記
+- 著者紹介
+
+#### 正誤表
+
+　<!-- ←見た目を調整するための全角スペース-->
+
+👉 初版
+
 
 ## 詳解 HTTP/3
 
 HTTP3 explainedの日本語版です。
 
-<center><img src="./h3-preface-min.png" alt="h3_index" width="500px"/></center>
+<center><img src="./h3-img-min.jpg" alt="h3_cover" width="250px"/></center>
 
 - C96発行
 - B5サイズ・36ページ
