@@ -11,20 +11,19 @@ actionLink: /about/
 
 # News
 
-## 2019.12.04 C97参加します！
+## 2020.01.01 C97お疲れ様でした！
 
-Last updated on: 2019.12.21
+寒い中、多くの方にお越しいただき、本当にありがとうございました。  
+次はゴールデンウィークですね！
 
-`あなたのサークルは火曜日 南地区 "リ" ブロック 18aに配置されています。`
-[Webカタログ](https://webcatalog.circle.ms/Perma/Circle/10392246/)
+<center>
+<img src="./c97-setsuei.jpg" alt="c97-setsuei" width="500px" />
+</center>
 
-<del>新刊出せるかだいぶ怪しいです、、、既刊あります</del>  
-新刊間に合いました！！！  
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">C97お品書きです！<br>新刊間に合いました！！！<br>たぶん午後はブースにいます<a href="https://t.co/t9kW5QYMQ3">https://t.co/t9kW5QYMQ3</a><a href="https://twitter.com/hashtag/C97?src=hash&amp;ref_src=twsrc%5Etfw">#C97</a> <a href="https://t.co/r7TjZfs14I">pic.twitter.com/r7TjZfs14I</a></p>&mdash; えびーむ🍤4日目南リ18a (@ebiiiiim) <a href="https://twitter.com/ebiiiiim/status/1208330834802966529?ref_src=twsrc%5Etfw">December 21, 2019</a></blockquote>
-<script2 async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script2>
-
-当日会場にてお待ちしております！
+<center><small>
+左: えびーむ（代表），
+右: トキノ（"原稿"誤字ってますね😇）
+</small></center>
 
 <br><br>
 ##### [過去ログ](/archives/)
