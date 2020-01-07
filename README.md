@@ -1,5 +1,7 @@
 # ぬるぽ帝国ウェブサイト
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0caaed6c-92fc-4eba-add9-acb0f03d84d0/deploy-status)](https://app.netlify.com/sites/nullpo-t-net/deploys)
+
 技術(怪)文書を発行する同人サークル**ぬるぽ帝国**のウェブサイト
 
 ## Releases

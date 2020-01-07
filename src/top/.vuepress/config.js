@@ -2,7 +2,6 @@ module.exports = {
     base: '/',
     title: 'ぬるぽ帝国',
     description: '技術(怪)文書を発行する同人サークル「ぬるぽ帝国」のホームページ',
-    ga: '',
     evergreen: 'True',
     themeConfig: {
       nav: [
@@ -14,4 +13,12 @@ module.exports = {
       ],
       lastUpdated: 'Last Updated', // string | boolean
     },
+    plugins: [
+      [
+        '@vuepress/google-analytics',
+        {
+          'ga': process.env.GA_TAG, // environment variable
+        }
+      ]
+    ]
   }
