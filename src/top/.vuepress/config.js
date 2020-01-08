@@ -17,7 +17,7 @@ module.exports = {
       [
         '@vuepress/google-analytics',
         {
-          'ga': process.env.GA_TAG, // environment variable
+          'ga': 'UA-120600570-1',
         }
       ]
     ]

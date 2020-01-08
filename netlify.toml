@@ -4,4 +4,4 @@
   command = "make"
 
 [context.production]
-  environment = { NODE_VERSION = "12.14.0", GA_TAG = "UA-120600570-1" }
+  environment = { NODE_VERSION = "12.14.0" }
