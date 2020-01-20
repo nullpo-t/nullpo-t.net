@@ -8,12 +8,12 @@ description: Activities
 
 ## 2019.12.31 C97
 4回目のイベント参加！  
-[頒布物情報](/archives/#_2019-12-04-c97参加します！)
+[頒布物情報](/archives/#_2019-12-04-c97参加します！)  
 [レポート](https://blog.ebiiim.com/posts/c97-report/)
 
 ## 2019.08.12 C96
 3回目のイベント参加！  
-[頒布物情報](/archives/#_2019-06-08-c96参加します！)
+[頒布物情報](/archives/#_2019-06-08-c96参加します！)  
 [レポート](https://blog.ebiiim.com/posts/c96-report/)
 
 ## 2018.12.30 C95
