@@ -11,19 +11,16 @@ actionLink: /about/
 
 # News
 
-## 2020.01.01 C97お疲れ様でした！
+## 2020.03.11 C98参加します！
 
-寒い中、多くの方にお越しいただき、本当にありがとうございました。  
-次はゴールデンウィークですね！
+世の中大変な状況ですが、当サークルはいつも通りですのでご安心ください。
 
-<center>
-<img src="./c97-setsuei.jpg" alt="c97-setsuei" width="500px" />
-</center>
+ちゃんとした新刊は難しい気がしますが、なにかやりたいです。
 
-<center><small>
-左: えびーむ（代表），
-右: トキノ（"原稿"誤字ってますね😇）
-</small></center>
+`4日目 南イ46a` [Web Catalog](https://webcatalog.circle.ms/Perma/Circle/10392246/)
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">男性向けと同じフロアじゃん😌<br><br>あなたのサークル「ぬるぽ帝国」は、コミックマーケット98で「火曜日南地区&quot;イ&quot;46a」に配置されました！ <a href="https://twitter.com/hashtag/C98?src=hash&amp;ref_src=twsrc%5Etfw">#C98</a> <a href="https://t.co/DFY13F9DH7">pic.twitter.com/DFY13F9DH7</a></p>&mdash; えびーむ🍤 (@ebiiiiim) <a href="https://twitter.com/ebiiiiim/status/1237731848425336832?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br><br>
 ##### [過去ログ](/archives/)

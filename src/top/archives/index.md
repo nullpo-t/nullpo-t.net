@@ -6,6 +6,21 @@ description: Archives
 
 # 過去ログ
 
+## 2020.01.01 C97お疲れ様でした！
+
+寒い中、多くの方にお越しいただき、本当にありがとうございました。  
+次はゴールデンウィークですね！
+
+<center>
+<img src="./c97-setsuei.jpg" alt="c97-setsuei" width="500px" />
+</center>
+
+<center><small>
+左: えびーむ（代表），
+右: トキノ（"原稿"誤字ってますね😇）
+</small></center>
+
+
 ## 2019.12.04 C97参加します！
 
 Last updated on: 2019.12.21
