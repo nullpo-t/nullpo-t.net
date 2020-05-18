@@ -18,7 +18,7 @@ description: Publications
 
 ## はたらくSEさん Vol.3
 
-今回はGoでなんかやってます！
+今回はGoでなんかやってます。あとインド編！
 
 <center><img src="./hse3-img-min.jpg" alt="hse3_cover" width="250px"/></center>
 
@@ -44,7 +44,7 @@ description: Publications
 
 ## 詳解 HTTP/3
 
-HTTP3 explainedの日本語版です。
+HTTP3 explainedの日本語版です。著者Daniel Stenberg氏のコメント付き！
 
 <center><img src="./h3-img-min.jpg" alt="h3_cover" width="250px"/></center>
 
@@ -61,7 +61,7 @@ HTTP3 explainedの日本語版です。
 
 ## はたらくSEさん Vol.2
 
-メンバーの趣味を詰め込んだ本です！少しプログラミングします！
+メンバーの趣味を詰め込んだ本です！少しコード書きます。
 
 <center><img src="./hse2-img-min.png" alt="hse2_cover" width="250px"/></center>
 
