@@ -8,13 +8,13 @@ description: Publications
 
 ## PDF版について
 
-紙の本にダウンロードキーが付いています。  
+紙の本にダウンロードカードが付いています。  
 👉[**ぬるぽ書庫**](http://dl.nullpo-t.net)
 からフルカラーの最新版をダウンロードできます。
 
 ![status](https://img.shields.io/uptimerobot/status/m781260901-b23226ac554d7ae519fd90c9.svg)
 
-ダウンロードキーがわからない場合は、お手数ですが[mail@nullpo-t.net](mailto:mail@nullpo-t.net)までご連絡ください。
+わからない場合は、お手数ですが[mail@nullpo-t.net](mailto:mail@nullpo-t.net)までご連絡ください。
 
 ## はたらくSEさん Vol.3
 

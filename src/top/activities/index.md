@@ -6,6 +6,10 @@ description: Activities
 
 # 活動記録
 
+## 2020.05.05 幻のC98
+参加予定でした。  
+[日記](https://blog.ebiiim.com/posts/c98-diary/)
+
 ## 2019.12.31 C97
 4回目のイベント参加！  
 [頒布物情報](/archives/#_2019-12-04-c97参加します！)  
