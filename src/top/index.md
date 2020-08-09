@@ -3,7 +3,7 @@ home: true
 navbar: false
 sidebar: auto
 description: 同人サークル
-footer: © 2018–2019 ぬるぽ帝国
+footer: © 2018–2020 ぬるぽ帝国
 #heroImage: /bg.jpg
 actionText: 入国
 actionLink: /about/
