@@ -1,27 +1,27 @@
 {
-  "name": "nullpo-t",
-  "version": "1.4.5",
-  "description": "website",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vuepress dev src/top",
-    "build": "vuepress build src/top -d dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nullpo-t/nullpo-t.net.git"
-  },
-  "author": "nullpo-t",
-  "license": "CC-BY-4.0",
-  "bugs": {
-    "url": "https://github.com/nullpo-t/nullpo-t.net/issues"
-  },
-  "homepage": "https://nullpo-t.net",
-  "dependencies": {
-    "vue-script2": "^2.1.0",
-    "vuepress": "^1.5.2"
-  },
-  "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.5.2"
-  }
+    "name": "nullpo-t",
+    "version": "1.4.6",
+    "description": "website",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vuepress dev src/top",
+        "build": "vuepress build src/top -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nullpo-t/nullpo-t.net.git"
+    },
+    "author": "nullpo-t",
+    "license": "CC-BY-4.0",
+    "bugs": {
+        "url": "https://github.com/nullpo-t/nullpo-t.net/issues"
+    },
+    "homepage": "https://nullpo-t.net",
+    "dependencies": {
+        "vue-script2": "^2.1.0",
+        "vuepress": "^1.7.1"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-google-analytics": "^1.7.1"
+    }
 }
