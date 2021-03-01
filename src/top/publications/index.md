@@ -18,7 +18,7 @@ description: Publications
 
 ## はたらくSEさん Vol.3
 
-今回はGoでなんかやってます。あとインド編！
+今回はGoでなんか作ります。あとインド編！
 
 <center><img src="./hse3-img-min.jpg" alt="hse3_cover" width="250px"/></center>
 
@@ -35,16 +35,11 @@ description: Publications
 - 編集後記
 - 著者紹介
 
-#### 正誤表
-
-　<!-- ←見た目を調整するための全角スペース-->
-
-👉 初版
-
-
 ## 詳解 HTTP/3
 
 HTTP3 explainedの日本語版です。著者Daniel Stenberg氏のコメント付き！
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s your chance to get the Japanese (日本語) translation of &quot;HTTP/3 Explained&quot; in print! <a href="https://t.co/0EWEgTa0c2">https://t.co/0EWEgTa0c2</a></p>&mdash; Daniel Stenberg (@bagder) <a href="https://twitter.com/bagder/status/1158131739795083264?ref_src=twsrc%5Etfw">August 4, 2019</a></blockquote> <script2 async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script2> 
 
 <center><img src="./h3-img-min.jpg" alt="h3_cover" width="250px"/></center>
 
@@ -52,12 +47,6 @@ HTTP3 explainedの日本語版です。著者Daniel Stenberg氏のコメント�
 - B5サイズ・36ページ
 - [ISDN278-4-501907-03-4](https://isdn.jp/2784501907034)
 - 原著のライセンスに基づく表示 [☆](https://github.com/nullpo-t/h3diff)
-
-#### 正誤表
-
-　<!-- ←見た目を調整するための全角スペース-->
-
-👉 初版
 
 ## はたらくSEさん Vol.2
 
@@ -82,7 +71,7 @@ HTTP3 explainedの日本語版です。著者Daniel Stenberg氏のコメント�
 
 　<!-- ←見た目を調整するための全角スペース-->
 
-👉 第2版
+<!--👉 第2版-->
 
 <!--
 | 位置 | 誤 | 正 | 説明 |
@@ -141,7 +130,7 @@ HTTP3 explainedの日本語版です。著者Daniel Stenberg氏のコメント�
 
 初版第2刷は諸事情により実質改訂版です😇
 
-👉 初版（第2刷）
+<!--👉 初版（第2刷）-->
 
 <!--
 | 位置 | 誤 | 正 | 説明 |
