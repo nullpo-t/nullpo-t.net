@@ -1,6 +1,6 @@
 {
     "name": "nullpo-t",
-    "version": "1.5.1",
+    "version": "1.6.0",
     "description": "website",
     "main": "index.js",
     "scripts": {
@@ -19,9 +19,9 @@
     "homepage": "https://nullpo-t.net",
     "dependencies": {
         "vue-script2": "^2.1.0",
-        "vuepress": "^1.7.1"
+        "vuepress": "^1.8.2"
     },
     "devDependencies": {
-        "@vuepress/plugin-google-analytics": "^1.7.1"
+        "@vuepress/plugin-google-analytics": "^1.8.2"
     }
 }
