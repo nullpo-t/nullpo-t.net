@@ -1,13 +1,13 @@
 # ぬるぽ帝国ウェブサイト
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0caaed6c-92fc-4eba-add9-acb0f03d84d0/deploy-status)](https://app.netlify.com/sites/nullpo-t-net/deploys)
+![status badge](https://img.shields.io/website?down_color=lightgrey&down_message=down&label=status&up_color=green&up_message=up&url=https%3A%2F%2Fnullpo-t.net)
 
 技術(怪)文書を発行する同人サークル**ぬるぽ帝国**のウェブサイト
 
 ## Releases
 
 - Generation 1: ホームページ
-    - 1.6: 延期後のC99向けに更新(21.11)
+    - 1.6: 新C99向けに更新(21.11)
     - 1.5: C99向けに更新(20.12)
     - 1.4: C98向けに更新(20.03)
     - 1.3: C97向けに更新(19.12)
