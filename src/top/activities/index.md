@@ -7,7 +7,7 @@ description: Activities
 # 活動記録
 
 ## 2021.12.31 C99A
-2年ぶりのコミケ参加！
+2年ぶりのコミケ参加！  
 [レポート](https://blog.ebiiim.com/posts/c99-report/)
 
 ## 2020.05.05 幻のC98
