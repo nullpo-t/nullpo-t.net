@@ -1,6 +1,6 @@
 {
     "name": "nullpo-t",
-    "version": "1.6.6-1",
+    "version": "1.6.7",
     "description": "website",
     "main": "index.js",
     "scripts": {

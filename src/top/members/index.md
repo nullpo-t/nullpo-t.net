@@ -18,7 +18,7 @@ description: Members
 
 ## トキノ
 
-<img src="./icon_tokino.jpg" alt="icon_tokino" width="200px"/>
+<img src="./icon_tokino-2.jpg" alt="icon_tokino" width="200px"/>
 
 <!--
 - 活動中: 2018.02.08 −
