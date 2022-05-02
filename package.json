@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "vuepress dev src/top",
-        "build": "vuepress build src/top -d dist"
+        "build": "vuepress build src/top -d dist; cp favicon.ico dist/favicon.ico"
     },
     "repository": {
         "type": "git",
