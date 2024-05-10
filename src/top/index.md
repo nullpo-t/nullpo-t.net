@@ -3,7 +3,7 @@ home: true
 navbar: false
 sidebar: auto
 description: 同人サークル
-footer: © 2018–2023 ぬるぽ帝国
+footer: © 2018–2024 ぬるぽ帝国
 #heroImage: /bg.jpg
 actionText: 入国
 actionLink: /about/
@@ -11,11 +11,9 @@ actionLink: /about/
 
 # お知らせ
 
-## 2023.02.25 生きてます
+## 2024.05.10 C104申し込みました
 
-もう2023年かー
-
-何かありましたら[@ebiiiiim](https://twitter.com/ebiiiiim)までご連絡ください。
+ひさしぶりな気がします！なにか書きたい！
 
 <br><br>
 ##### [過去ログ](/archives/)
